@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only sendblue plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-sendblue",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "sendblue"
+  ],
+  "version": "1.0.0"
+}

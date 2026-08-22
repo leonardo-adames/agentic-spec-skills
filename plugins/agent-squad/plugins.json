@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only agent-squad plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-agent-squad",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "agent-squad"
+  ],
+  "version": "1.0.0"
+}

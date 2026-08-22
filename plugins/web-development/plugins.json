@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only web-development plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-web-development",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "web-development"
+  ],
+  "version": "1.0.0"
+}

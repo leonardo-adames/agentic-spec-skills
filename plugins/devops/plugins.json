@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only devops plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-devops",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "devops"
+  ],
+  "version": "1.0.0"
+}

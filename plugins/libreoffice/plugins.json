@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only libreoffice plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-libreoffice",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "libreoffice"
+  ],
+  "version": "1.0.0"
+}

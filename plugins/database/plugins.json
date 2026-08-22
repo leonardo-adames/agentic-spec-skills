@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only database plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-database",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "database"
+  ],
+  "version": "1.0.0"
+}

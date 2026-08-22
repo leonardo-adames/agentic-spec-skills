@@ -1,0 +1,10 @@
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# Archivos temporales y logs
+*.log
+*.tmp

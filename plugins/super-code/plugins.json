@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only super-code plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-super-code",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "super-code"
+  ],
+  "version": "1.0.0"
+}

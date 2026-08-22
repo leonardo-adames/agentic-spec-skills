@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only mobile plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-mobile",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "mobile"
+  ],
+  "version": "1.0.0"
+}

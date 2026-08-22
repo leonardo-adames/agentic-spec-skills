@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only security plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-security",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "security"
+  ],
+  "version": "1.0.0"
+}

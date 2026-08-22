@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only app-builder plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-app-builder",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "app-builder"
+  ],
+  "version": "1.0.0"
+}

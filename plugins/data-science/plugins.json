@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only data-science plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-data-science",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "data-science"
+  ],
+  "version": "1.0.0"
+}

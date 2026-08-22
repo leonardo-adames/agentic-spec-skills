@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only monopoly plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-monopoly",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "monopoly"
+  ],
+  "version": "1.0.0"
+}

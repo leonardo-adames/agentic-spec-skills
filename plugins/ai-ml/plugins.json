@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only ai-ml plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-ai-ml",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "ai-ml"
+  ],
+  "version": "1.0.0"
+}

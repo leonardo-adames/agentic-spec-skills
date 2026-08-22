@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only testing plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-testing",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "testing"
+  ],
+  "version": "1.0.0"
+}

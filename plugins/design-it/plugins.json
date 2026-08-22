@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only design-it plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-design-it",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "design-it"
+  ],
+  "version": "1.0.0"
+}

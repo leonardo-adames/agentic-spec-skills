@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Leonardo Marte"
+  },
+  "description": "Portable skills-only automation plugin",
+  "license": "MIT",
+  "name": "agentic-bundle-automation",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "bundle",
+    "automation"
+  ],
+  "version": "1.0.0"
+}

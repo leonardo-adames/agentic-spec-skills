@@ -1,5 +1,7 @@
 {
   "description": "Universal agent plugin for mobile",
-  "name": "agentic-bundle-mobile",
-  "version": "1.0.0"
+  "raw_url": "https://raw.githubusercontent.com/leonardo-adames/agentic-spec-skills/main/plugins/mobile",
+  "repository": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/mobile",
+  "version": "1.0.0",
+  "name": "agentic-bundle-mobile"
 }

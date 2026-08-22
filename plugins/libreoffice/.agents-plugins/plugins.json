@@ -1,5 +1,7 @@
 {
   "description": "Universal agent plugin for libreoffice",
-  "name": "agentic-bundle-libreoffice",
-  "version": "1.0.0"
+  "raw_url": "https://raw.githubusercontent.com/leonardo-adames/agentic-spec-skills/main/plugins/libreoffice",
+  "repository": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/libreoffice",
+  "version": "1.0.0",
+  "name": "agentic-bundle-libreoffice"
 }

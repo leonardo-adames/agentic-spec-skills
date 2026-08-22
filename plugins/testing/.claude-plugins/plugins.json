@@ -1,5 +1,7 @@
 {
   "description": "Claude Code plugin for testing",
-  "name": "agentic-bundle-testing",
-  "version": "1.0.0"
+  "raw_url": "https://raw.githubusercontent.com/leonardo-adames/agentic-spec-skills/main/plugins/testing",
+  "repository": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/testing",
+  "version": "1.0.0",
+  "name": "agentic-bundle-testing"
 }

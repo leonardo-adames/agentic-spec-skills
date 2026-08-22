@@ -1,5 +1,7 @@
 {
   "description": "Universal agent plugin for backend",
-  "name": "agentic-bundle-backend",
-  "version": "1.0.0"
+  "raw_url": "https://raw.githubusercontent.com/leonardo-adames/agentic-spec-skills/main/plugins/backend",
+  "repository": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/backend",
+  "version": "1.0.0",
+  "name": "agentic-bundle-backend"
 }

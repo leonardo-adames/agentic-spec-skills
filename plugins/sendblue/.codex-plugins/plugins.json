@@ -1,5 +1,7 @@
 {
   "description": "Codex plugin for sendblue",
-  "name": "agentic-bundle-sendblue",
-  "version": "1.0.0"
+  "raw_url": "https://raw.githubusercontent.com/leonardo-adames/agentic-spec-skills/main/plugins/sendblue",
+  "repository": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/sendblue",
+  "version": "1.0.0",
+  "name": "agentic-bundle-sendblue"
 }

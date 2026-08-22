@@ -1,15 +1,21 @@
 {
-  "author": {
-    "name": "Leonardo Marte"
+  "repository": {
+    "url": "https://github.com/leonardo-adames/agentic-spec-skills.git",
+    "type": "git"
   },
-  "description": "Portable skills-only data-science plugin",
-  "license": "MIT",
-  "name": "agentic-bundle-data-science",
   "keywords": [
     "agent-plugins",
     "agent-skills",
     "bundle",
     "data-science"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/data-science",
+  "author": {
+    "name": "Leonardo Marte",
+    "url": "https://github.com/leonardo-adames"
+  },
+  "description": "Portable skills-only data-science plugin",
+  "name": "agentic-bundle-data-science",
   "version": "1.0.0"
 }

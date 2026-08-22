@@ -1,15 +1,21 @@
 {
-  "author": {
-    "name": "Leonardo Marte"
+  "repository": {
+    "url": "https://github.com/leonardo-adames/agentic-spec-skills.git",
+    "type": "git"
   },
-  "description": "Portable skills-only web-development plugin",
-  "license": "MIT",
-  "name": "agentic-bundle-web-development",
   "keywords": [
     "agent-plugins",
     "agent-skills",
     "bundle",
     "web-development"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/web-development",
+  "author": {
+    "name": "Leonardo Marte",
+    "url": "https://github.com/leonardo-adames"
+  },
+  "description": "Portable skills-only web-development plugin",
+  "name": "agentic-bundle-web-development",
   "version": "1.0.0"
 }

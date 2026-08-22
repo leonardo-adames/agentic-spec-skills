@@ -1,5 +1,7 @@
 {
   "description": "Claude Code plugin for cloud",
-  "name": "agentic-bundle-cloud",
-  "version": "1.0.0"
+  "raw_url": "https://raw.githubusercontent.com/leonardo-adames/agentic-spec-skills/main/plugins/cloud",
+  "repository": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/cloud",
+  "version": "1.0.0",
+  "name": "agentic-bundle-cloud"
 }

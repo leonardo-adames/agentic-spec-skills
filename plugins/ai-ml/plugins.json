@@ -1,15 +1,21 @@
 {
-  "author": {
-    "name": "Leonardo Marte"
+  "repository": {
+    "url": "https://github.com/leonardo-adames/agentic-spec-skills.git",
+    "type": "git"
   },
-  "description": "Portable skills-only ai-ml plugin",
-  "license": "MIT",
-  "name": "agentic-bundle-ai-ml",
   "keywords": [
     "agent-plugins",
     "agent-skills",
     "bundle",
     "ai-ml"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/ai-ml",
+  "author": {
+    "name": "Leonardo Marte",
+    "url": "https://github.com/leonardo-adames"
+  },
+  "description": "Portable skills-only ai-ml plugin",
+  "name": "agentic-bundle-ai-ml",
   "version": "1.0.0"
 }

@@ -1,15 +1,21 @@
 {
-  "author": {
-    "name": "Leonardo Marte"
+  "repository": {
+    "url": "https://github.com/leonardo-adames/agentic-spec-skills.git",
+    "type": "git"
   },
-  "description": "Portable skills-only super-code plugin",
-  "license": "MIT",
-  "name": "agentic-bundle-super-code",
   "keywords": [
     "agent-plugins",
     "agent-skills",
     "bundle",
     "super-code"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/super-code",
+  "author": {
+    "name": "Leonardo Marte",
+    "url": "https://github.com/leonardo-adames"
+  },
+  "description": "Portable skills-only super-code plugin",
+  "name": "agentic-bundle-super-code",
   "version": "1.0.0"
 }

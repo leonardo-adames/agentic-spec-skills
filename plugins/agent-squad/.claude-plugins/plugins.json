@@ -1,5 +1,7 @@
 {
   "description": "Claude Code plugin for agent-squad",
-  "name": "agentic-bundle-agent-squad",
-  "version": "1.0.0"
+  "raw_url": "https://raw.githubusercontent.com/leonardo-adames/agentic-spec-skills/main/plugins/agent-squad",
+  "repository": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/agent-squad",
+  "version": "1.0.0",
+  "name": "agentic-bundle-agent-squad"
 }

@@ -1,5 +1,7 @@
 {
   "description": "Universal agent plugin for super-code",
-  "name": "agentic-bundle-super-code",
-  "version": "1.0.0"
+  "raw_url": "https://raw.githubusercontent.com/leonardo-adames/agentic-spec-skills/main/plugins/super-code",
+  "repository": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/super-code",
+  "version": "1.0.0",
+  "name": "agentic-bundle-super-code"
 }

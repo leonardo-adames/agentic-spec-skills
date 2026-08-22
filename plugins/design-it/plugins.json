@@ -1,15 +1,21 @@
 {
-  "author": {
-    "name": "Leonardo Marte"
+  "repository": {
+    "url": "https://github.com/leonardo-adames/agentic-spec-skills.git",
+    "type": "git"
   },
-  "description": "Portable skills-only design-it plugin",
-  "license": "MIT",
-  "name": "agentic-bundle-design-it",
   "keywords": [
     "agent-plugins",
     "agent-skills",
     "bundle",
     "design-it"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/design-it",
+  "author": {
+    "name": "Leonardo Marte",
+    "url": "https://github.com/leonardo-adames"
+  },
+  "description": "Portable skills-only design-it plugin",
+  "name": "agentic-bundle-design-it",
   "version": "1.0.0"
 }

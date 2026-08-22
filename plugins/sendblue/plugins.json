@@ -1,15 +1,21 @@
 {
-  "author": {
-    "name": "Leonardo Marte"
+  "repository": {
+    "url": "https://github.com/leonardo-adames/agentic-spec-skills.git",
+    "type": "git"
   },
-  "description": "Portable skills-only sendblue plugin",
-  "license": "MIT",
-  "name": "agentic-bundle-sendblue",
   "keywords": [
     "agent-plugins",
     "agent-skills",
     "bundle",
     "sendblue"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/sendblue",
+  "author": {
+    "name": "Leonardo Marte",
+    "url": "https://github.com/leonardo-adames"
+  },
+  "description": "Portable skills-only sendblue plugin",
+  "name": "agentic-bundle-sendblue",
   "version": "1.0.0"
 }

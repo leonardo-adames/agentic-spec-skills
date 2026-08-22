@@ -1,15 +1,21 @@
 {
-  "author": {
-    "name": "Leonardo Marte"
+  "repository": {
+    "url": "https://github.com/leonardo-adames/agentic-spec-skills.git",
+    "type": "git"
   },
-  "description": "Portable skills-only libreoffice plugin",
-  "license": "MIT",
-  "name": "agentic-bundle-libreoffice",
   "keywords": [
     "agent-plugins",
     "agent-skills",
     "bundle",
     "libreoffice"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/libreoffice",
+  "author": {
+    "name": "Leonardo Marte",
+    "url": "https://github.com/leonardo-adames"
+  },
+  "description": "Portable skills-only libreoffice plugin",
+  "name": "agentic-bundle-libreoffice",
   "version": "1.0.0"
 }

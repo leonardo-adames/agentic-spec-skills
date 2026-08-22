@@ -1,15 +1,21 @@
 {
-  "author": {
-    "name": "Leonardo Marte"
+  "repository": {
+    "url": "https://github.com/leonardo-adames/agentic-spec-skills.git",
+    "type": "git"
   },
-  "description": "Portable skills-only mobile plugin",
-  "license": "MIT",
-  "name": "agentic-bundle-mobile",
   "keywords": [
     "agent-plugins",
     "agent-skills",
     "bundle",
     "mobile"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/mobile",
+  "author": {
+    "name": "Leonardo Marte",
+    "url": "https://github.com/leonardo-adames"
+  },
+  "description": "Portable skills-only mobile plugin",
+  "name": "agentic-bundle-mobile",
   "version": "1.0.0"
 }

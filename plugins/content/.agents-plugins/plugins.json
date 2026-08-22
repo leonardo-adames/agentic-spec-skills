@@ -1,5 +1,7 @@
 {
   "description": "Universal agent plugin for content",
-  "name": "agentic-bundle-content",
-  "version": "1.0.0"
+  "raw_url": "https://raw.githubusercontent.com/leonardo-adames/agentic-spec-skills/main/plugins/content",
+  "repository": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/content",
+  "version": "1.0.0",
+  "name": "agentic-bundle-content"
 }

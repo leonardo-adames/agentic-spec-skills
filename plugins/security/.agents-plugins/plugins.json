@@ -1,5 +1,7 @@
 {
   "description": "Universal agent plugin for security",
-  "name": "agentic-bundle-security",
-  "version": "1.0.0"
+  "raw_url": "https://raw.githubusercontent.com/leonardo-adames/agentic-spec-skills/main/plugins/security",
+  "repository": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/security",
+  "version": "1.0.0",
+  "name": "agentic-bundle-security"
 }

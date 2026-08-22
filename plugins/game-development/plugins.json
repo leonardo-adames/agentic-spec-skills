@@ -1,15 +1,21 @@
 {
-  "author": {
-    "name": "Leonardo Marte"
+  "repository": {
+    "url": "https://github.com/leonardo-adames/agentic-spec-skills.git",
+    "type": "git"
   },
-  "description": "Portable skills-only game-development plugin",
-  "license": "MIT",
-  "name": "agentic-bundle-game-development",
   "keywords": [
     "agent-plugins",
     "agent-skills",
     "bundle",
     "game-development"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/game-development",
+  "author": {
+    "name": "Leonardo Marte",
+    "url": "https://github.com/leonardo-adames"
+  },
+  "description": "Portable skills-only game-development plugin",
+  "name": "agentic-bundle-game-development",
   "version": "1.0.0"
 }

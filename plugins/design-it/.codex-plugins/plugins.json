@@ -1,5 +1,7 @@
 {
   "description": "Codex plugin for design-it",
-  "name": "agentic-bundle-design-it",
-  "version": "1.0.0"
+  "raw_url": "https://raw.githubusercontent.com/leonardo-adames/agentic-spec-skills/main/plugins/design-it",
+  "repository": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/design-it",
+  "version": "1.0.0",
+  "name": "agentic-bundle-design-it"
 }

@@ -1,5 +1,7 @@
 {
   "description": "Universal agent plugin for app-builder",
-  "name": "agentic-bundle-app-builder",
-  "version": "1.0.0"
+  "raw_url": "https://raw.githubusercontent.com/leonardo-adames/agentic-spec-skills/main/plugins/app-builder",
+  "repository": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/app-builder",
+  "version": "1.0.0",
+  "name": "agentic-bundle-app-builder"
 }

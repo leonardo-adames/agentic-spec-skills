@@ -1,15 +1,21 @@
 {
-  "author": {
-    "name": "Leonardo Marte"
+  "repository": {
+    "url": "https://github.com/leonardo-adames/agentic-spec-skills.git",
+    "type": "git"
   },
-  "description": "Portable skills-only security plugin",
-  "license": "MIT",
-  "name": "agentic-bundle-security",
   "keywords": [
     "agent-plugins",
     "agent-skills",
     "bundle",
     "security"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/leonardo-adames/agentic-spec-skills/tree/main/plugins/security",
+  "author": {
+    "name": "Leonardo Marte",
+    "url": "https://github.com/leonardo-adames"
+  },
+  "description": "Portable skills-only security plugin",
+  "name": "agentic-bundle-security",
   "version": "1.0.0"
 }

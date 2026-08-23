@@ -5,6 +5,8 @@ Thumbs.db
 !.vscode/settings.json
 !.vscode/tasks.json
 
-# Archivos temporales y logs
+# Archivos temporales y logs y scripts
 *.log
 *.tmp
+*.sh
+*.ps1
